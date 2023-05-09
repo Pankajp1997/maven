@@ -35,7 +35,7 @@ pipeline
             }
         }
         stage('ContinuousDelivery')
-        {
+        {12
            steps
            {
                input message: 'Waiting for Approval from the DM!', submitter: 'naresh'
