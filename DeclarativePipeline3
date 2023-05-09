@@ -5,7 +5,7 @@ pipeline
     {
         stage('ContinuousDownload')
         {
-            steps
+            steps[
             {
                 script
                 {232
