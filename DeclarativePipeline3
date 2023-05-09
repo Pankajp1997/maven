@@ -8,7 +8,7 @@ pipeline
             steps
             {
                 script
-                {
+                {232
                    try
                    {
                        git 'https://github.com/intelliqittrainings/maven.git'
